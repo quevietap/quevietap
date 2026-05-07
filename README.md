@@ -1,35 +1,54 @@
 <h1 align="center">Carl Johnrey Ratilla</h1>
-<p align="center">
-  <b>Full-Stack Developer | Lead AI Engineer</b><br>
-  Engineering high-performance mobile, web, and AI-powered applications.
-</p>
+  <p align="center">
+    <b>Full-Stack Developer | AI & LLM Tooling</b><br>
+    Building scalable mobile, web, and developer-focused applications with
+  practical AI integration.
+  </p>
 
-<p align="center">
-  I focus on practical engineering, real-time systems, and modern developer workflows, bridging the gap between sophisticated frontend interfaces and intelligent backend logic.
-</p>
+  <p align="center">
+    <i>Independent in thought, disciplined in execution, and committed to
+  continuous growth.</i>
+  </p>
 
----
+  <p align="center">
+    I focus on software engineering, real-time systems, and modern development
+  workflows, combining frontend experience, backend architecture, and AI-assisted
+  tooling to deliver efficient and reliable products.
+  </p>
 
-## Engineering Focus
+  ---
 
-I specialize in building scalable applications with a heavy emphasis on **Software Development** and **AI Orchestration**. My work revolves around creating seamless user experiences and optimizing how developers interact with AI.
+  ## Engineering Focus
 
-* **Mobile & Web Development:** Expert focus on the **React Native & Expo** ecosystem for cross-platform excellence and modern web frameworks for type-safe, responsive applications.
-* **Hybrid AI Systems:** Architecting AI orchestration that utilizes both **Local and Cloud-based models** to enhance application intelligence and streamline development productivity.
-* **Real-Time Systems:** Designing systems for station discovery, advanced navigation, and live data synchronization.
+  I specialize in full-stack development with a growing focus on AI and LLM-
+  powered tooling. My work centers on building practical applications, improving
+  developer workflows, and delivering responsive, reliable user experiences across
+  platforms.
 
-## Featured Project: WynxsMapp
-*An advanced EV navigation and orchestration engine.*
+  * **Mobile & Web Development:** Building cross-platform and web applications
+  using **React Native, Expo, and modern web frameworks**, with strong attention
+  to performance, usability, and maintainability.
+  * **AI & LLM Tooling:** Developed an **AI-powered CLI** inspired by modern
+  assistant-style workflows, with support for both **local and cloud-based LLMs**.  * **Developer Productivity:** Applying **AI and LLMs within development
+  workflows** to improve efficiency, automation, and engineering output.
+  * **Real-Time Systems:** Interested in systems involving live updates,
+  navigation logic, and synchronized data flows.
 
-* **Navigation & Logic:** Implementing complex route planning and live session updates.
-* **Geospatial Engineering:** Intelligent station discovery and location-based services.
-* **Performance:** High-efficiency data handling optimized for mobile environments.
+  ## Featured Project: WynxsMapp
+  *An advanced EV navigation and orchestration engine.*
 
----
+  * **Navigation & Logic:** Implementing route planning and live session updates.
+  * **Geospatial Engineering:** Building intelligent station discovery and
+  location-based services.
+  * **Performance:** Optimizing data handling and application efficiency for
+  mobile environments.
 
-<p align="center">
-  Currently exploring multi-agent code reviews and hybrid cloud-local AI pipelines.
-</p>
+  ---
+
+  <p align="center">
+    Currently exploring AI tooling, multi-agent workflows, and hybrid local-cloud
+  LLM systems.
+  </p>
 
 ---
   ## Tech Stack
