@@ -18,12 +18,6 @@ I specialize in building scalable applications with a heavy emphasis on **Softwa
 * **Hybrid AI Systems:** Architecting AI orchestration that utilizes both **Local and Cloud-based models** to enhance application intelligence and streamline development productivity.
 * **Real-Time Systems:** Designing systems for station discovery, advanced navigation, and live data synchronization.
 
-## Tech Stack
-
-* **Languages & Frameworks:** TypeScript, React Native, Expo, React, Node.js
-* **AI Orchestration:** Local LLM Integration, Cloud AI APIs, Multi-Agent Systems
-* **Infrastructure & Tools:** Firebase, GitHub Actions, Figma, Cursor
-
 ## Featured Project: WynxsMapp
 *An advanced EV navigation and orchestration engine.*
 
